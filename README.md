@@ -12,3 +12,4 @@ Git hub- useful links:
 8. Git updateREADME (create new branch / fork) example
 9. Git checkout updateREADME (example how to swith the branch)- see *
 10. git checkout -b aNewBranch
+11. git branch -d updateREADME
