@@ -12,4 +12,6 @@ Git hub- useful links:
 8. Git updateREADME (create new branch / fork) example
 9. Git checkout updateREADME (example how to swith the branch)- see *
 10. git checkout -b aNewBranch
-11. git branch -d updateREADME
+11. git branch -d updateREADME (delete a branch)
+12. git merge updateREADME (as example. Make sure you are on MAIN branch)
+13.  git push -u origin main
