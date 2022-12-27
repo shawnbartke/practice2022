@@ -15,3 +15,4 @@ Git hub- useful links:
 11. git branch -d updateREADME (delete a branch)
 12. git merge updateREADME (as example. Make sure you are on MAIN branch)
 13.  git push -u origin main
+14. git diff origin/main main (compare revised local with original Remote)
